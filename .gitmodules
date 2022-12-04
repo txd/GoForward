@@ -1,0 +1,3 @@
+[submodule "submodule/HelloGitHub"]
+	path = submodule/HelloGitHub
+	url = git@github.com:txd/HelloGitHub.git

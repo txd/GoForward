@@ -10,3 +10,4 @@ test_squash
 aaa
 bbb
 ammend-test
+add

@@ -8,3 +8,5 @@ aaaaa
 locval_branch
 test_squash
 aaa
+bbb
+ammend-test

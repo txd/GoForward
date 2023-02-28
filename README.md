@@ -11,3 +11,5 @@ aaa
 bbb
 ammend-test
 add
+ammend-another
+ammend-lst
